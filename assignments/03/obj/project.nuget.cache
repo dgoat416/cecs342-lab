@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KDjm1Q3AalP/8Lk+ZIB4PgBZoW6MvihK6qavU8LIq1rPTEMWjLTTuoUeCfzhCCs0jwhxZGiRK9n9JaV1lbZ7zQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\Documents\\Current Classes\\CECS 342 Spring '21\\CECS 342 Lab 2-8-21\\cecs342-lab\\assignments\\03\\Bank.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\fsharp.core\\5.0.0\\fsharp.core.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

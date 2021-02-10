@@ -1,0 +1,68 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\HP\\Documents\\Current Classes\\CECS 342 Spring '21\\CECS 342 Lab 2-8-21\\cecs342-lab\\assignments\\03\\Bank.fsproj": {}
+  },
+  "projects": {
+    "C:\\Users\\HP\\Documents\\Current Classes\\CECS 342 Spring '21\\CECS 342 Lab 2-8-21\\cecs342-lab\\assignments\\03\\Bank.fsproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\HP\\Documents\\Current Classes\\CECS 342 Spring '21\\CECS 342 Lab 2-8-21\\cecs342-lab\\assignments\\03\\Bank.fsproj",
+        "projectName": "Bank",
+        "projectPath": "C:\\Users\\HP\\Documents\\Current Classes\\CECS 342 Spring '21\\CECS 342 Lab 2-8-21\\cecs342-lab\\assignments\\03\\Bank.fsproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\HP\\Documents\\Current Classes\\CECS 342 Spring '21\\CECS 342 Lab 2-8-21\\cecs342-lab\\assignments\\03\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "FSharp.Core": {
+              "target": "Package",
+              "version": "[5.0.0, )",
+              "generatePathProperty": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

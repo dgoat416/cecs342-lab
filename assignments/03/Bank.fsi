@@ -58,7 +58,7 @@ val withdraw: int -> Account -> Account
 // Deposits the given amount into an account.
 val deposit: int -> Account -> Account
 
-// Makes a customer with the given name and password.
+// Makes a customer with the given name and password. Must be an empty customer.
 val makeCustomer: Name -> Password -> Customer
 
 // Makes a session for a Customer. A session is `Valid` iff the password given
